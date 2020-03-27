@@ -1,1 +1,2 @@
 This is the first file tested to be pushed into the repository.
+Second line added.
